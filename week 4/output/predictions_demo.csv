@@ -1,0 +1,6 @@
+Gender,Married,Education,Income,LoanAmount,Credit_History,Property,Approval Prob,Decision
+Male,Yes,Graduate,7000,120,1.0,Semiurban,78.13%,APPROVED
+Female,No,Not Graduate,2500,80,0.0,Rural,14.75%,REJECTED
+Male,Yes,Graduate,9500,200,1.0,Urban,79.10%,APPROVED
+Female,Yes,Graduate,5000,100,1.0,Semiurban,81.34%,APPROVED
+Male,No,Not Graduate,1500,50,0.0,Urban,7.32%,REJECTED
